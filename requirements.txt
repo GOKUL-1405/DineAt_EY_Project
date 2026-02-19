@@ -1,0 +1,3 @@
+Backend: Python 3.8 or higher
+Framework: Django 5.0
+Database: MySQL 8.0.45
